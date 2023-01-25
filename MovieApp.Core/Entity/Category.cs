@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MovieApp.Cache.Entity
+namespace MovieApp.Entity
 {
     public class Category:BaseEntity
     {

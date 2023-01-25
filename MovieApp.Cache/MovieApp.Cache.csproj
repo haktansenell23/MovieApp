@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MovieApp.Service\MovieApp.Service.csproj" />
+  </ItemGroup>
+
 </Project>

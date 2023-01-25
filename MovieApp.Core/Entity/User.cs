@@ -16,9 +16,13 @@ namespace MovieApp.Entity
 
         public string Password { get; set; }
 
-        public bool isAdmin { get; set; } = false;
+        public bool IsAdmin { get; set; } = false;
 
+        public string Email { get; set; }
 
+        public DateTime RegisteredDate { get; set; }
+
+       
 
     }
 }

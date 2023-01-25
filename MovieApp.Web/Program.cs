@@ -1,7 +1,15 @@
+using MovieApp.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+x => x.UseSqlServer(builder.Configuration.GetConnectionString("MsSqlConnectionString"),
+option =>
+option.MigrationsAssembly(Assembly.GetAssembly(typeof(MovieAppDbContext)).GetName().Name
+)));
 
 var app = builder.Build();
 

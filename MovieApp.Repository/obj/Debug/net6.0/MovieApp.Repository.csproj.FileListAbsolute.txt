@@ -1,0 +1,17 @@
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Repository.deps.json
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Repository.runtimeconfig.json
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Repository.dll
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Repository.pdb
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Core.dll
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\bin\Debug\net6.0\MovieApp.Core.pdb
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.csproj.AssemblyReference.cache
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.AssemblyInfoInputs.cache
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.AssemblyInfo.cs
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.csproj.CopyComplete
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.dll
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\refint\MovieApp.Repository.dll
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.pdb
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\MovieApp.Repository.genruntimeconfig.cache
+C:\Users\hakta\Desktop\emre\repo\MovieApp\MovieApp.Repository\obj\Debug\net6.0\ref\MovieApp.Repository.dll

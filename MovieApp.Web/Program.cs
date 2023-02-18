@@ -1,4 +1,6 @@
+using Microsoft.EntityFrameworkCore;
 using MovieApp.Repository;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,10 +8,20 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 
-x => x.UseSqlServer(builder.Configuration.GetConnectionString("MsSqlConnectionString"),
-option =>
-option.MigrationsAssembly(Assembly.GetAssembly(typeof(MovieAppDbContext)).GetName().Name
-)));
+
+// Add to DbContext and determine for migration assembly way 
+builder.Services.AddDbContext<MovieAppDbContext>(
+    x=>x.UseSqlServer(builder.Configuration.GetConnectionString("MsSqlConnectionString"),option=>
+    option.MigrationsAssembly(Assembly.GetAssembly(typeof(MovieAppDbContext)).GetName().Name)));
+
+
+
+
+
+
+
+
+
 
 var app = builder.Build();
 
